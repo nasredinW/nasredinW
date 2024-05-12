@@ -38,13 +38,18 @@ Feel free to reach out and collaborate on interesting projects!
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasredinW&theme=tokyonight&hide_border=false" />
+  <details>
+ ## <summary>:zap: GitHub Stats 🏆:</summary>
+
+![](https://github-profile-trophy.vercel.app/?username=nasredinW&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+</details>
 </div>
 
  <br>
 <details>
  ## <summary>:zap: GitHub Stats 🏆:</summary>
 
-! [] (https://github-profile-trophy.vercel.app/?username=nasredinW&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nasredinW&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 </details>
 
 <br>
