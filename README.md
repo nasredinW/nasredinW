@@ -5,11 +5,7 @@
 </p>
 
 <br>
-<p align="center">
-<img src="https://github.com/nasredinW/meetme/assets/122043602/cecba002-16b7-4c2a-98f4-efac12050ded">
-  <img src="https://github.com/nasredinW/meetme/assets/122043602/cecba002-16b7-4c2a-98f4-efac12050ded">
 
-</p>
 <h1 align="center"> Nasredin Weslati <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> </h1>
 <br>
 
@@ -17,6 +13,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nasredinW&label=Profile%20views&color=0e75b6&style=flat" alt="nasredinW">
+</p>
+<p align="center">
+<img src="https://github.com/nasredinW/meetme/assets/122043602/cecba002-16b7-4c2a-98f4-efac12050ded">
+  <img src="https://github.com/nasredinW/meetme/assets/122043602/cecba002-16b7-4c2a-98f4-efac12050ded">
+
 </p>
 
 ## 📫 How to reach me:
