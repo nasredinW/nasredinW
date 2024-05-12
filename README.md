@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body style="background-color: red;">
  <p align="center" >
@@ -95,7 +96,7 @@ Cucumber (Behavior-driven development)
 <details>
  ## <summary>:zap: GitHub Stats 🏆:</summary>
 
-![](https://github-profile-trophy.vercel.app/?username=nasredinW&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+!(https://github-profile-trophy.vercel.app/?username=nasredinW&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 </details>
 
 <br>
@@ -108,11 +109,7 @@ Cucumber (Behavior-driven development)
 
 </details>
 
-<br>
-
-<br>
 
 
-</body>
 </body>
 </html>
