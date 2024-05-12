@@ -90,7 +90,6 @@ Cucumber (Behavior-driven development)
 ##  <h3 align="left"> 📊 GitHub Stats:</h3>
 
 <div style="display: flex; justify-content: space-between;">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasredinW&theme=tokyonight&hide_border=false" />
 </div>
 <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasredinW&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -99,15 +98,10 @@ Cucumber (Behavior-driven development)
 <details>
  ## <summary>:zap: GitHub Stats 🏆:</summary>
 
-
-
-<br>![](https://github-profile-trophy.vercel.app/?username=nasredinW&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=nasredinW&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 </details>
 
-
 <br>
-
 <details>
 ## <summary> 🔝 Top Contributed Repo :</summary>
 
