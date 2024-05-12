@@ -92,7 +92,6 @@ Cucumber (Behavior-driven development)
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasredinW&theme=tokyonight&hide_border=false" />
 </div>
-<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasredinW&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  <br>
 <details>
