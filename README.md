@@ -16,7 +16,9 @@
 </p>
 <p align="center">
 <img src="https://github.com/nasredinW/meetme/assets/122043602/cecba002-16b7-4c2a-98f4-efac12050ded">
-   <img src="https://github.com/nasredinW/meetme/assets/122043602/40930606-3696-4e7b-b929-b25d0e423343">
+<img src="https://github.com/nasredinW/meetme/assets/122043602/40930606-3696-4e7b-b929-b25d0e423343">
+<img src="https://github.com/nasredinW/meetme/assets/122043602/9c442c15-724b-4447-b86a-fa54b4b5cc18">
+
 
 
 </p>
