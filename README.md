@@ -15,13 +15,14 @@
 # 🌟 Software Developer | System & Cloud Engineer | DevOps 🌟
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nasredinW&label=Profile%20views&color=0e75b6&style=flat" alt="zayedhamadi">
+  <img src="https://komarev.com/ghpvc/?username=nasredinW&label=Profile%20views&color=0e75b6&style=flat" alt="nasredinW">
 </p>
 
 ## 📫 How to reach me:
 - 📧 [nasredinwesleti@gmail.com](mailto:nasredinwesleti@gmail.com)
 
 Feel free to reach out and collaborate on interesting projects!
+🌟"It always seems impossible until it's done."🌟
 
 ## 🌐 Connect with me:
 
