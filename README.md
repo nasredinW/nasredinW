@@ -112,7 +112,7 @@ Cucumber (Behavior-driven development)
 ## <summary> 🔝 Top Contributed Repo :</summary>
 
 
-![](https://github-contributor-stats.vercel.app/api?username=nasredinW&limit=5&theme=nord&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasredinW&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 </details>
