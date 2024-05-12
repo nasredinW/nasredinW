@@ -90,7 +90,7 @@ Cucumber (Behavior-driven development)
 ##  <h3 align="left"> 📊 GitHub Stats:</h3>
 
 <div style="display: flex; justify-content: space-between;">
-  <img align="left" alt="nasredinW's Github Stats" src="https://github-readme-stats-lemon-delta.vercel.app/api?username=nasredinW&show_icons=true&hide_border=true" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasredinW&theme=tokyonight&hide_border=false" />
 </div>
 
