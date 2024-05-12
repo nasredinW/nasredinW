@@ -90,11 +90,10 @@ Cucumber (Behavior-driven development)
 ##  <h3 align="left"> 📊 GitHub Stats:</h3>
 
 <div style="display: flex; justify-content: space-between;">
-  <br>![](https://github-profile-trophy.vercel.app/?username=nasredinW&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasredinW&theme=tokyonight&hide_border=false" />
 </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasredinW&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasredinW&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  <br>
 <details>
