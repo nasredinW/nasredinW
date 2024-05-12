@@ -1,119 +1,49 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-color: #f3f3f3;
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
+---
 
-    h1, h2, h3 {
-      color: #333;
-    }
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+Back+!&center=true&size=30">
+</p>
 
-    h1 {
-      font-size: 2.5em;
-    }
+<br>
 
-    h2 {
-      font-size: 2em;
-    }
+<img src="https://github.com/nasredinW/meetme/assets/122043602/cecba002-16b7-4c2a-98f4-efac12050ded">
+<img src="https://github.com/nasredinW/meetme/assets/122043602/bccbe92b-bb15-4f7f-8054-2c82450433c8">
 
-    h3 {
-      font-size: 1.5em;
-    }
+<h1 align="center"> Nasredin Weslati <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> </h1>
+<br>
 
-    p {
-      font-size: 1.1em;
-      line-height: 1.5;
-    }
+# 🌟 Software Developer | System & Cloud Engineer | DevOps 🌟
 
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nasredinW&label=Profile%20views&color=0e75b6&style=flat" alt="zayedhamadi">
+</p>
 
-    img {
-      max-width: 100%;
-      height: auto;
-    }
+## 📫 How to reach me:
+- 📧 [nasredinwesleti@gmail.com](mailto:nasredinwesleti@gmail.com)
 
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-    }
+Feel free to reach out and collaborate on interesting projects!
 
-    .section {
-      margin-bottom: 30px;
-    }
+## 🌐 Connect with me:
 
-    .section h3 {
-      margin-bottom: 10px;
-    }
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zayedh80)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nasredin-weslati-837b85241)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nasredin-weslati-837b85241)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nasredin-weslati-837b85241)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zayedh80)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/nasredin-weslati-837b85241)
 
-    .social-icons {
-      display: flex;
-      justify-content: space-between;
-      margin-bottom: 20px;
-    }
+## 🛠️ Languages and Tools:
 
-    .social-icons a {
-      display: inline-block;
-      width: 40px;
-      height: 40px;
-      margin-right: 10px;
-    }
+<p align="left">
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  ...
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+</p>
 
-    .skills-list {
-      display: flex;
-      flex-wrap: wrap;
-      margin-bottom: 20px;
-    }
+...
 
-    .skills-list a {
-      display: inline-block;
-      width: 40px;
-      height: 40px;
-      margin-right: 10px;
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="section">
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+Back+!&center=true&size=30">
-      </p>
-      <br>
-      <img src="https://github.com/nasredinW/meetme/assets/122043602/cecba002-16b7-4c2a-98f4-efac12050ded">
-      <img src="https://github.com/nasredinW/meetme/assets/122043602/bccbe92b-bb15-4f7f-8054-2c82450433c8">
 
-      <h1 align="center">Nasredin Weslati <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"></h1>
-      <br>
-
-      <h2 align="center">🌟 Software Developer | System & Cloud Engineer | DevOps 🌟</h2>
-
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=nasredinW&label=Profile%20views&color=0e75b6&style=flat" alt="zayedhamadi">
-      </p>
-    </div>
-
-    <div class="section">
-      <h3>📫 How to reach me:</h3>
-      <p>📧 <a href="mailto:nasredinwesleti@gmail.com">nasredinwesleti@gmail.com</a></p>
-    </div>
-
-    <div class="section">
-      <h3>🌐 Connect with me:</h3>
-      <div class="social-icons">
-        <a href="https://instagram.com/zayedh80"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-        <a href="https://linkedin.com/in/nasredin-weslati-837b85241"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-        <a href="https://pinterest.com/nasredin-weslati-837b85241"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a>
-        <a href="https://stackoverflow.com/users/nasredin-weslati-837b85241"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="https://x.com/zayedh80"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
 <a href="https://codepen.io/nasredin-weslati-837b85241"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 
