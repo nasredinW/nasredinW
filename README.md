@@ -38,27 +38,22 @@ Feel free to reach out and collaborate on interesting projects!
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasredinW&theme=tokyonight&hide_border=false" />
-  <details>
+  
  ## <summary>:zap: GitHub Stats 🏆:</summary>
 
 ![](https://github-profile-trophy.vercel.app/?username=nasredinW&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-</details>
+
 </div>
 
  <br>
-<details>
- ## <summary>:zap: GitHub Stats 🏆:</summary>
 
-![](https://github-profile-trophy.vercel.app/?username=nasredinW&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-</details>
 
-<br>
-<details>
+
 ## <summary> 🔝 Top Contributed Repo :</summary>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasredinW&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-</details>
+
 </body> </html> 
