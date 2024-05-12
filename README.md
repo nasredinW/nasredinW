@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <body style="background-color: red;">
  <p align="center" >
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+Back+!&center=true&size=30">
@@ -135,3 +137,5 @@ I<!--     <img align="left" alt="nasredinW Github Stats" src="https://github-rea
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nasredinW&theme=tokyonight&hide_border=false)<br/> ->
 ---
 </body>
+</body>
+</html>
