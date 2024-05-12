@@ -2,12 +2,12 @@
 <html>
 <body style="background-color: red;">
  <p align="center" >
-  <img src= "https://github.com/nasredinW/meetme/assets/122043602/cecba002-16b7-4c2a-98f4-efac12050ded">
+  
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+Back+!&center=true&size=30">
   </p>
+]<br> 
 <img src= "https://github.com/nasredinW/meetme/assets/122043602/cecba002-16b7-4c2a-98f4-efac12050ded">
-<br>
- <h1 align="center"> Nasredin Weslati <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> </h1>
+<h1 align="center"> Nasredin Weslati <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> </h1>
 <br>
 
    ## 🌟 Software Developer | System&Cloud Engineer | DevOps !!🌟
